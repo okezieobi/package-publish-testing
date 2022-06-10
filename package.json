@@ -1,6 +1,6 @@
 {
   "name": "@okezieobi/package-publish-testing",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Testing package publishing",
   "main": "index.js",
   "scripts": {
