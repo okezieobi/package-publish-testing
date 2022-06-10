@@ -1,0 +1,22 @@
+{
+  "name": "@okezieobi/package-publish-testing",
+  "version": "0.0.1",
+  "description": "Testing package publishing",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okezieobi/package-publish-testing.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Frank Okezie Obiedere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okezieobi/package-publish-testing/issues"
+  },
+  "homepage": "https://github.com/okezieobi/package-publish-testing#readme"
+}
